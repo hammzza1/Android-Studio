@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirstApplication</string>
+    <string name="randomizedBtn">Randomize</string>
+    <string name="randomizedText">Push the button</string>
+    <string name="itemone"> Add new name</string>
+    <string name="itemtwo"> Settings</string>
+
+
+</resources>
